@@ -1,0 +1,31 @@
+
+# Android / Gradle
+.gradle/
+**/build/
+build/
+local.properties
+
+# Android Studio
+.idea/
+*.iml
+.navigation/
+
+# Logs
+*.log
+
+# APKs e AABs gerados
+*.apk
+*.aab
+
+# Assinaturas e credenciais
+*.jks
+*.keystore
+keystore.properties
+secrets.properties
+
+# Kotlin
+.kotlin/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
